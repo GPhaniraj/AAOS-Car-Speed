@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "150588324536",
+    "project_id": "aaoscarspeedalert",
+    "storage_bucket": "aaoscarspeedalert.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:150588324536:android:31c1a03a94e0935bef524d",
+        "android_client_info": {
+          "package_name": "com.automotive.carspeed"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDFvuRMgtRu6ff3zQ55ZubdsLxYxTe9lHM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
